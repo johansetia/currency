@@ -1,4 +1,7 @@
 # currency
+[![GoDoc](https://godoc.org/github.com/johansetia/currency?status.svg)](https://godoc.org/github.com/johansetia/currency)
+[![Go Report Card](https://goreportcard.com/badge/github.com/johansetia/currency)](https://goreportcard.com/report/github.com/johansetia/currency)
+
 
 currency is a simple package that can be used to find a real time currency from https://fixer.io/
 
@@ -50,7 +53,8 @@ func main() {
 }
 
 ```
-
+### Reference
+ Fixer.io Documentation :  https://fixer.io/documentation
 ### Structure
 
 ```bash
